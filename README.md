@@ -1,3 +1,3 @@
 "This is my playground for trying techs & techniques" 
 
-<img src="https://avatars.githubusercontent.com/u/43721630?v=4" alt="Erdemhan">
+<img src="https://www.artmajeur.com/medias/standard/y/s/ysbel/artwork/13948145_far-from-the-madding-crowd.jpg" alt="Erdemhan">
